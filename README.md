@@ -4,7 +4,7 @@
 
 Du kannst auf Basis von folgendem Codepen via React die Aufgabe lösen: https://codesandbox.io/s/simple-calling-api-forked-nsptw8?file=/src/App.js (Forke dazu am besten das Projekt) - alternativ kannst du auch ein eigenes Projekt aufsetzen.
 
-Beispielnutzer:
+[Beispielnutzer](https://jsonplaceholder.typicode.com/users):
 ```
 [
   {
