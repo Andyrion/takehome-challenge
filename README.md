@@ -2,7 +2,7 @@
 
 >Aufgabe: Verwende die Daten aus dem Response von `GET https://jsonplaceholder.typicode.com/users` und zeige den Namen und Email der User in je einer Box. In jeder Box wird zusätzlich ein Button mit Text "Show More" angezeigt. Wenn der Button geklickt wird, soll ein Alert mit der Firma (Company) des Users angezeigt werden.
 
-Du kannst auf Basis von folgendem Codepen via React die Aufgabe lösen: https://codesandbox.io/s/simple-calling-api-forked-nsptw8?file=/src/App.js (Forke dazu am besten das Projekt) - alternativ kannst du auch ein eigenes Projekt aufsetzen.
+Du kannst auf Basis von folgendem Codepen via React die Aufgabe lösen: https://codesandbox.io/s/simple-calling-api-forked-nsptw8?file=/src/App.js (Forke dazu am besten das Projekt) - alternativ kannst du auch ein eigenes Projekt mit deiner bevorzugten Sprache / Framework aufsetzen.
 
 [Beispielnutzer](https://jsonplaceholder.typicode.com/users):
 ```
